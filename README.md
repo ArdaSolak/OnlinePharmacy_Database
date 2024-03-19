@@ -1,3 +1,3 @@
 # OnlinePharmacy_Database
  
-[Database Proje- Hasan Arda Solak, Hamza İbrahim Balık --.pdf](https://github.com/ArdaSolak/OnlinePharmacy_Database/files/14547456/Database.Proje-.Hasan.Arda.Solak.Hamza.Ibrahim.Balik.--.pdf)
+[Database Proje- Hasan Arda Solak, Hamza İbrahim Balık --.pdf](https://docs.google.com/document/d/1AmEOzmQx86xDqHinegYfdkLRwpx_TXv4/edit?usp=drive_link&ouid=101810298410700445056&rtpof=true&sd=true)
